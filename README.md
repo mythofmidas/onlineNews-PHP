@@ -74,10 +74,6 @@ List the ready features here:
 
 12. first register and then login
 
-13. Admin account details for login:
-- Email: `handsofmidas007@admin.com and`
-- Password: `123456789`
-
 
 > **Note** <br>
 > Don't forget to configure your database information in the `index.php`
@@ -86,12 +82,5 @@ List the ready features here:
 > And also mail configuration in the `index.php`  ( I used [mailtrap](https://mailtrap.io/) )
 
 
-
 ## Project Status
 Status Project:  _complete_
-
-
-
-
-## Contact
-Created by [@MobinaJafarian](https://github.com/MobinaJafarian) - feel free to contact me!
