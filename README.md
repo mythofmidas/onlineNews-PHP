@@ -48,9 +48,9 @@ List the ready features here:
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
 3. Download project
-   1. from GitHub (https://github.com/MobinaJafarian/OnlineNewsSite)
+   1. from GitHub (https://github.com/handsofmidas007/OnlineNews-PHP.git)
    2. or you can clone by cmd 
-      1. `cd C:\xampp\htdocs && git clone https://github.com/MobinaJafarian/OnlineNewsSite.git`
+      1. `cd C:\xampp\htdocs && git clone https://github.com/handsofmidas007/OnlineNews-PHP.git`
  
 4. extract files in C:\\xampp\htdocs\.
 
@@ -75,7 +75,7 @@ List the ready features here:
 12. first register and then login
 
 13. Admin account details for login:
-- Email: `onlinenewssite@admin.com and`
+- Email: `handsofmidas007@admin.com and`
 - Password: `123456789`
 
 
