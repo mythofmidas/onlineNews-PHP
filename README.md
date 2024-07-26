@@ -48,9 +48,9 @@ List the ready features here:
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
 3. Download project
-   1. from GitHub (https://github.com/handsofmidas007/OnlineNews-PHP.git)
+   1. from GitHub (https://github.com/mythofmidas/onlineNews-PHP.git)
    2. or you can clone by cmd 
-      1. `cd C:\xampp\htdocs && git clone https://github.com/handsofmidas007/OnlineNews-PHP.git`
+      1. `cd C:\xampp\htdocs && git clone https://github.com/mythofmidas/onlineNews-PHP.git`
  
 4. extract files in C:\\xampp\htdocs\.
 
